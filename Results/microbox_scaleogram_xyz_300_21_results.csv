@@ -1,0 +1,10 @@
+Test Loss,0.23080839216709137
+Test Accuracy,0.9116883277893066
+Test AUC,0.967589795589447
+Precision,0.9447513812154696
+Recall,0.8769230769230769
+F1-score,0.9095744680851064
+True Negatives,180.0
+False Positives,10.0
+False Negatives,24.0
+True Positives,171.0

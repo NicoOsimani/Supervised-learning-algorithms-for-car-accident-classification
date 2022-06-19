@@ -68,6 +68,8 @@ The repository contains the results of the trainings and the tests. For each mod
 - Train and validation accuracy graph.
 - Train and validation loss graph.
 
+There is also a file called Results.ods that summarize all the results.
+
 ## STM32
 The repository also contains two applications for edge-ai on STM32 microcontroller. The device for which the applications were developed is the STM32F429I-DISC1. The applications allow the classification on the STM32 microcontroller, using the microbox xyz 300 23 model (STM32 microbox application) and the infobox xy 1200 15 model (STM32 infobox application).
 

@@ -88,7 +88,7 @@ USB drive
     └── false
         └── *.csv
 ```
-The correct csv files format is generated when saving the test set using the 1d cnn microbox and the 1d cnn infobox notebooks.
+The correct csv files format is generated when saving the test set using the 1d cnn microbox and the 1d cnn infobox notebooks. The parameters defined in the file main.h have to be specified correctly. When when saving the test set using the notebooks, the BTR parameter is also printed to screen.
 
 The applications classify each test series and display the results on the integrated LCD display, showing:
 
